@@ -1,1 +1,5 @@
 appscript
+geographiclib
+gpxpy
+pytz
+tzlocal
